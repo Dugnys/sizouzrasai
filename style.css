@@ -68,3 +68,8 @@ li a :hover
     height: 80vh;
     width: 90%;
 }
+
+.error
+{
+    margin: auto;
+}
